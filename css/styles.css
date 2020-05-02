@@ -11,6 +11,12 @@ h1 {
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
+.name {
+  color: #66BFBF;
+  font-size: 4.625rem;
+  margin: 50px auto 0 auto;
+  font-family:    'PT Serif', serif;
+}
 
 h2 {
   color: #66BFBF;
@@ -55,7 +61,7 @@ hr {
 }
 
 a{
-  color: #222831;
+  color: #11999E;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
